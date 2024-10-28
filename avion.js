@@ -1,3 +1,4 @@
+//avion
 let velocidad = 168;
 let altura = 140;
 
